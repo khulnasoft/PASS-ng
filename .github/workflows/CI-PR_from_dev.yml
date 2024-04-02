@@ -22,5 +22,5 @@ jobs:
         uses: repo-sync/pull-request@v2
         with:
           destination_branch: "master"
-          github_token: ${{ secrets.PULL_REQUEST_TOKEN }}
+          github_token: ${{ secrets.ORG_REPO_TOKEN }}
       
