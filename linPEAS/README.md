@@ -1,6 +1,6 @@
 # LinPEAS - Linux Privilege Escalation Awesome Script
 
-![](https://github.com/khulnasoft-lab/privilege-access-security-suite/raw/master/linPEAS/images/linpeas.png)
+![](https://github.com/khulnasoft/pass-ng/raw/master/linPEAS/images/linpeas.png)
 
 **LinPEAS is a script that search for possible paths to escalate privileges on Linux/Unix\*/MacOS hosts. The checks are explained on [book.khulnasoft.com](https://book.khulnasoft.com/linux-hardening/privilege-escalation)**
 
@@ -149,7 +149,7 @@ With LinPEAS you can also **discover hosts automatically** using `fping`, `ping`
 
 LinPEAS will **automatically search for this binaries** in `$PATH` and let you know if any of them is available. In that case you can use LinPEAS to hosts dicovery and/or port scanning.
 
-![](https://github.com/khulnasoft-lab/privilege-access-security-suite/raw/master/linPEAS/images/network.png)
+![](https://github.com/khulnasoft/pass-ng/raw/master/linPEAS/images/network.png)
 
 
 ## Colors
@@ -223,9 +223,9 @@ Are you a PASS fan? Get now our merch at **[PASS Shop](https://teespring.com/sto
 
 ## Collaborate
 
-If you want to help with the TODO tasks or with anything, you can do it using **[github issues](https://github.com/khulnasoft-lab/privilege-access-security-suite/issues) or you can submit a pull request**.
+If you want to help with the TODO tasks or with anything, you can do it using **[github issues](https://github.com/khulnasoft/pass-ng/issues) or you can submit a pull request**.
 
-If you find any issue, please report it using **[github issues](https://github.com/khulnasoft-lab/privilege-access-security-suite/issues)**.
+If you find any issue, please report it using **[github issues](https://github.com/khulnasoft/pass-ng/issues)**.
 
 **Linpeas** is being **updated** every time I find something that could be useful to escalate privileges.
 
