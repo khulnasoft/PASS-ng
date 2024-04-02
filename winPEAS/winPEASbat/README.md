@@ -1,6 +1,6 @@
 # Windows Privilege Escalation Awesome Script (.bat)
 
-![](https://github.com/khulnasoft-lab/privilege-escalation-awesome-scripts-suite/raw/master/winPEAS/winPEASexe/images/winpeas.png)
+![](https://github.com/khulnasoft-lab/privilege-access-security-suite/raw/master/winPEAS/winPEASexe/images/winpeas.png)
 
 **WinPEAS is a script that search for possible paths to escalate privileges on Windows hosts. The checks are explained on [book.khulnasoft.com](https://book.khulnasoft.com/windows-hardening/windows-local-privilege-escalation)**
 

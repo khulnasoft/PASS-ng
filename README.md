@@ -1,6 +1,6 @@
-# PASS-ng - Privilege Escalation Awesome Scripts SUITE new generation
+# PASS-ng - Privilege Access Security Suite
 
-![](https://github.com/khulnasoft-lab/privilege-escalation-awesome-scripts-suite/raw/master/linPEAS/images/pass.png)
+![](https://github.com/khulnasoft-lab/privilege-access-security-suite/raw/master/linPEAS/images/pass.png)
 
 ![](https://img.shields.io/badge/Black-Arch-black) ![](https://img.shields.io/badge/Arch-AUR-brightgreen) ![](https://img.shields.io/badge/Black%20Hat%20Arsenal-Asia%202020-red)
 
@@ -11,10 +11,10 @@ Here you will find **privilege escalation tools for Windows and Linux/Unix\* and
 These tools search for possible **local privilege escalation paths** that you could exploit and print them to you **with nice colors** so you can recognize the misconfigurations easily.
 
 - Check the **Local Windows Privilege Escalation checklist** from **[book.khulnasoft.com](https://book.khulnasoft.com/windows-hardening/checklist-windows-privilege-escalation)**
-- **[WinPEAS](https://github.com/khulnasoft-lab/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS) - Windows local Privilege Escalation Awesome Script (C#.exe and .bat)**
+- **[WinPEAS](https://github.com/khulnasoft-lab/privilege-access-security-suite/tree/master/winPEAS) - Windows local Privilege Escalation Awesome Script (C#.exe and .bat)**
 
 - Check the **Local Linux Privilege Escalation checklist** from **[book.khulnasoft.com](https://book.khulnasoft.com/linux-hardening/linux-privilege-escalation-checklist)**
-- **[LinPEAS](https://github.com/khulnasoft-lab/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS) - Linux local Privilege Escalation Awesome Script (.sh)**
+- **[LinPEAS](https://github.com/khulnasoft-lab/privilege-access-security-suite/tree/master/linPEAS) - Linux local Privilege Escalation Awesome Script (.sh)**
 
 ## Quick Start
 Find the **latest versions of all the scripts and binaries in [the releases page](https://github.com/khulnasoft/PASS-ng/releases/latest)**.
@@ -32,7 +32,7 @@ You can also, join the 💬 [Discord group](https://discord.gg/hRep4RUj7f) or th
 
 ## Let's improve PASS together
 
-If you want to **add something** and have **any cool idea** related to this project, please let me know it in the **telegram group https://t.me/khulnasoft** or contribute reading the **[CONTRIBUTING.md](https://github.com/khulnasoft-lab/privilege-escalation-awesome-scripts-suite/blob/master/CONTRIBUTING.md)** file.
+If you want to **add something** and have **any cool idea** related to this project, please let me know it in the **telegram group https://t.me/khulnasoft** or contribute reading the **[CONTRIBUTING.md](https://github.com/khulnasoft-lab/privilege-access-security-suite/blob/master/CONTRIBUTING.md)** file.
 
 ## Advisory
 
