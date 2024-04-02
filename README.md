@@ -11,10 +11,10 @@ Here you will find **privilege escalation tools for Windows and Linux/Unix\* and
 These tools search for possible **local privilege escalation paths** that you could exploit and print them to you **with nice colors** so you can recognize the misconfigurations easily.
 
 - Check the **Local Windows Privilege Escalation checklist** from **[book.khulnasoft.com](https://book.khulnasoft.com/windows-hardening/checklist-windows-privilege-escalation)**
-- **[WinPEAS](https://github.com/khulnasoft/pass-ng/tree/master/winPEAS) - Windows local Privilege Escalation Awesome Script (C#.exe and .bat)**
+- **[WinPEAS](https://github.com/khulnasoft/pass-ng/tree/master/winPEAS) - Windows local Privilege Access Security Suite (C#.exe and .bat)**
 
 - Check the **Local Linux Privilege Escalation checklist** from **[book.khulnasoft.com](https://book.khulnasoft.com/linux-hardening/linux-privilege-escalation-checklist)**
-- **[LinPEAS](https://github.com/khulnasoft/pass-ng/tree/master/linPEAS) - Linux local Privilege Escalation Awesome Script (.sh)**
+- **[LinPEAS](https://github.com/khulnasoft/pass-ng/tree/master/linPEAS) - Linux local Privilege Access Security Suite (.sh)**
 
 ## Quick Start
 Find the **latest versions of all the scripts and binaries in [the releases page](https://github.com/khulnasoft/PASS-ng/releases/latest)**.

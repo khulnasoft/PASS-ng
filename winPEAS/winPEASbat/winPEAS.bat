@@ -1,9 +1,9 @@
 @ECHO OFF & SETLOCAL EnableDelayedExpansion
-TITLE WinPEAS - Windows local Privilege Escalation Awesome Script
+TITLE WinPEAS - Windows local Privilege Access Security Suite
 COLOR 0F
 CALL :SetOnce
 
-REM :: WinPEAS - Windows local Privilege Escalation Awesome Script
+REM :: WinPEAS - Windows local Privilege Access Security Suite
 REM :: Code by khulnasoft; Re-Write by ThisLimn0
 
 REM Registry scan of other drives besides 
@@ -53,7 +53,7 @@ ECHO.
 :Advisory
 REM // Increase progress in title by n percent
 CALL :T_Progress 0
-ECHO./^^!\ Advisory: WinPEAS - Windows local Privilege Escalation Awesome Script
+ECHO./^^!\ Advisory: WinPEAS - Windows local Privilege Access Security Suite
 CALL :ColorLine "   %E%41mWinPEAS should be used for authorized penetration testing and/or educational purposes only.%E%40;97m"
 CALL :ColorLine "   %E%41mAny misuse of this software will not be the responsibility of the author or of any other collaborator.%E%40;97m"
 CALL :ColorLine "   %E%41mUse it at your own networks and/or with the network owner's permission.%E%40;97m"
@@ -636,7 +636,7 @@ if "%long%" == "true" (
 ) ELSE (
 	CALL :T_Progress 2
 )
-TITLE WinPEAS - Windows local Privilege Escalation Awesome Script - Idle
+TITLE WinPEAS - Windows local Privilege Access Security Suite - Idle
 ECHO.---
 ECHO.Scan complete.
 PAUSE >NUL 
@@ -653,7 +653,7 @@ EXIT /B
 :T_Progress
 SET "Percentage=%~1"
 SET /A "PercentageTrack=PercentageTrack+Percentage"
-TITLE WinPEAS - Windows local Privilege Escalation Awesome Script - Scanning... !PercentageTrack!%%
+TITLE WinPEAS - Windows local Privilege Access Security Suite - Scanning... !PercentageTrack!%%
 EXIT /B
 
 :ColorLine

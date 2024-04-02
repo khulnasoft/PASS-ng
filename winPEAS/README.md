@@ -1,4 +1,4 @@
-# Windows Privilege Escalation Awesome Scripts
+# Windows Privilege Access Security Suites
 
 ![](https://github.com/khulnasoft/pass-ng/raw/master/winPEAS/winPEASexe/images/winpeas.png)
 

@@ -1,4 +1,4 @@
-# LinPEAS - Linux Privilege Escalation Awesome Script
+# LinPEAS - Linux Privilege Access Security Suite
 
 ![](https://github.com/khulnasoft/pass-ng/raw/master/linPEAS/images/linpeas.png)
 

@@ -1,4 +1,4 @@
-# Privilege Escalation Awesome Scripts Parsers
+# Privilege Access Security Suites Parsers
 
 These scripts allows you to transform the output of linpeas/macpeas/winpeas to JSON and then to PDF and HTML.
 

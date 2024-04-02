@@ -17,7 +17,7 @@ class MetasploitModule < Msf::Post
     super( update_info(info,
       'Name'           => 'Multi PASS launcher',
       'Description'    => %q{
-          This module will launch the indicated PASS (Privilege Escalation Awesome Script Suite) script to enumerate the system.
+          This module will launch the indicated PASS (Privilege Access Security Suite Suite) script to enumerate the system.
           You need to indicate the URL or local path to LinPEAS if you are on any Unix-based system or to WinPEAS if you are on Windows.
           By default this script will upload the PASS script to the host (encrypted and/or encoded) and will load, deobfuscate, and execute it.
           You can configure this module to download the encrypted/encoded PASS script from this metasploit instance via HTTP instead of uploading it.
