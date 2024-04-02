@@ -1,4 +1,4 @@
-# PASS-ng - Privilege Escalation Awesome Scripts SUITE new generation
+# PASS-ng - Privilege Escalation Assistance Suite new generation
 
 ![](https://github.com/khulnasoft-lab/privilege-escalation-awesome-scripts-suite/raw/master/linPEAS/images/pass.png)
 
