@@ -32,7 +32,6 @@ class MetasploitModule < Msf::Post
       'References' =>
           [
             ['URL', 'https://github.com/khulnasoft/PASS-ng'],
-            ['URL', 'https://www.youtube.com/watch?v=9_fJv_weLU0'],
           ]
     ))
     register_options(

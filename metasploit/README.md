@@ -62,7 +62,6 @@ Description:
 
 References:
   https://github.com/khulnasoft/PASS-ng
-  https://www.youtube.com/watch?v=9_fJv_weLU0
 ```
 
 The options are pretty self-explanatory.
